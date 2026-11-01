@@ -1,3 +1,5 @@
+![Ruby Parasol Games](./imgs/RubyParasolGames.png)
+
 **[RUBY PARASOL GAMES] — COMUNICADO OFICIAL**
 
 Olá, pessoal! Temos novidades sobre o desenvolvimento do nosso projeto *Help Wanted*!
